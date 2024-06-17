@@ -1,0 +1,6 @@
+BigTableToBigQueryChangeStreams$ConvertToTableRowFn.class
+common/WindowUtils/DurationUtils.class
+BigTableToBigQueryChangeStreams.class
+common/InputOutput/BigQueryDestination.class
+common/BTtoBQPipelineOptions.class
+common/InputOutput/BigtableSource.class

@@ -1,0 +1,5 @@
+/Users/garrett.manaster/tutorial/java-docs-samples/bigtable/beam/change-streams/src/main/java/BigTableToBigQueryChangeStreams.java
+/Users/garrett.manaster/tutorial/java-docs-samples/bigtable/beam/change-streams/src/main/java/common/BTtoBQPipelineOptions.java
+/Users/garrett.manaster/tutorial/java-docs-samples/bigtable/beam/change-streams/src/main/java/common/InputOutput/BigQueryDestination.java
+/Users/garrett.manaster/tutorial/java-docs-samples/bigtable/beam/change-streams/src/main/java/common/InputOutput/BigtableSource.java
+/Users/garrett.manaster/tutorial/java-docs-samples/bigtable/beam/change-streams/src/main/java/common/WindowUtils/DurationUtils.java
