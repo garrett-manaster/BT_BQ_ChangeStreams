@@ -1,6 +1,6 @@
 # Bigtable Change Streams
 
-This repo has an example of using BT to BQ change streams for real time updates in BQ.
+This repo has an example of using BT to BQ change streams for real time updates in BQ. It is used mainly to share the beam code used to build the playground model pipeline.
 
 
 ### Running
